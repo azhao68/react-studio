@@ -4,6 +4,15 @@
 
 }
 
+.App button {
+    size: 50px;
+}
+
 .BakeryItem {
-  
+  background-color: bisque;
+  width: 40%;
+}
+
+.BakeryItem img {
+    margin: 6px;
 }
